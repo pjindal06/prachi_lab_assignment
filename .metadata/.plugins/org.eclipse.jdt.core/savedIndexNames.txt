@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\Himan\prachi_lab_assignments\core\.metadata\.plugins\org.eclipse.jdt.core
+3501463311.index
